@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>976525691022-sm5fiviniht9k7j0illjfuoscqrb9u3o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.976525691022-sm5fiviniht9k7j0illjfuoscqrb9u3o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlARcHkAM_Uz85Pltw-0PsSC25GMOVQM4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>976525691022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quranory.quranoryApp</string>
+	<key>PROJECT_ID</key>
+	<string>quranory</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quranory.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:976525691022:ios:94777f93ab6dc1555b61df</string>
+	<key>DATABASE_URL</key>
+	<string>https://quranory-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
